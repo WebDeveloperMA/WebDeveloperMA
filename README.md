@@ -1,4 +1,4 @@
-<img src="[https://media.licdn.com/dms/image/v2/D5616AQGpYy8nr6QEiw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1674848694198?e=1745452800&v=beta&t=zPUB6Od4bCx_3U4oeizPo2678-1KctWniXq_WEBXCuY](https://media.licdn.com/dms/image/v2/D5616AQGXX2Iuysdq6Q/profile-displaybackgroundimage-shrink_350_1400/B56ZUvj6SvGsBg-/0/1740259698729?e=1745452800&v=beta&t=8lpChluxOdrN1uuwfj-rgdJNmZZHFVj6V1qx8bzZU_A)"> 
+<img src="https://media.licdn.com/dms/image/v2/D5616AQGXX2Iuysdq6Q/profile-displaybackgroundimage-shrink_350_1400/B56ZUvj6SvGsBg-/0/1740259698729?e=1745452800&v=beta&t=8lpChluxOdrN1uuwfj-rgdJNmZZHFVj6V1qx8bzZU_A"> 
 <h1 align="center">Hi 👋, I'm Murad Akon</h1>
 <h3 align="center">A passionate frontend developer fromBangladesh</h3>
 
