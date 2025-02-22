@@ -1,3 +1,4 @@
+<img src="https://media.licdn.com/dms/image/v2/D5616AQGpYy8nr6QEiw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1674848694198?e=1745452800&v=beta&t=zPUB6Od4bCx_3U4oeizPo2678-1KctWniXq_WEBXCuY"> 
 <h1 align="center">Hi 👋, I'm Murad Akon</h1>
 <h3 align="center">A passionate frontend developer fromBangladesh</h3>
 
